@@ -1,19 +1,31 @@
-# 🎁 Gerador de Vale-Presente
+# 🎁 Gift Card Generator
 
-Este projeto é uma ferramenta simples para gerar códigos de vales-presente personalizáveis. Desenvolvido para praticar lógica de programação.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚀 Tecnologias Utilizadas
-- Linguagem: JavaScript
-- Interface: HTML/CSS
+This project is a simple tool to generate customizable gift card codes. Developed to practice programming logic and web fundamentals.
 
-## ✨ Funcionalidade
-- Geração de vale-presentes aleatórios únicos.
 
-## 🛠️ Como executar o projeto
+## 🚀 Technologies Used
 
-1. Clone o repositório: `git clone https://github.com/laurabgularte/gerador-vale-presente.git`
-2. Abra o arquivo [index.html] no seu navegador ou terminal.
+* **Language:** JavaScript
+* **Interface:** HTML / CSS
 
-## 🧠 O que eu aprendi
+## ✨ Features
 
-Neste projeto, foquei em aprender como estruturar um projeto pequeno de forma organizada e melhorar minhas habilidades "básicas" de programação.
+* Generation of unique, random gift card codes.
+
+## 🛠️ How to Run the Project
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/laurabgularte/gerador-vale-presente.git](https://github.com/laurabgularte/gerador-vale-presente.git)
+    ```
+2.  **Open the project:**
+    Simply open the `index.html` file in your favorite browser.
+
+## 🧠 What I Learned
+
+In this project, I focused on learning how to structure a small project in an organized way and improving my core programming skills.
+
